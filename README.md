@@ -1,1 +1,1 @@
-# git-badges
+# how to get git-badges 
