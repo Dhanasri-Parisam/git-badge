@@ -1,1 +1,1 @@
-# git-badge
+# git-badges
